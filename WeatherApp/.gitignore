@@ -1,0 +1,22 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+
+# Swift Package Manager
+/.build/
+/Packages/
+
+# CocoaPods
+/Pods/
+/Podfile.lock
+
+# Others
+xcuserdata/
+.idea/
+*.swp
